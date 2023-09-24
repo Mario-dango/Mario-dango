@@ -49,6 +49,7 @@
 ![Static Badge](https://img.shields.io/badge/Tools-KiCad-informational?style=plastic&logo=kicad&logoColor=rgb(49,76,176)&label=Tools&color=rgb(49,76,176))
 ![Static Badge](https://img.shields.io/badge/Tools-HTML5-informational?style=plastic&logo=html5&logoColor=rgb(227,79,38)&label=Tools&color=rgb(227,79,38))
 ![Static Badge](https://img.shields.io/badge/Tools-CSS3-informational?style=plastic&logo=css3&logoColor=rgb(21,114,182)&label=Tools&color=rgb(21,114,182))
+![Static Badge](https://img.shields.io/badge/Tools-Trello-informational?style=plastic&logo=trello&logoColor=rgb(0,82,204)&label=Tools&color=rgb(0,82,204))
 
 <p align="center">
   <a href="https://github.com/Mario-dango"><img src="https://github-readme-stats.vercel.app/api?username=Mario-dango&hide_border=true&show_icons=true" alt="edisonlee55's github stats"></a>
