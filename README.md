@@ -10,6 +10,7 @@
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
 ![Static Badge](https://img.shields.io/badge/Open%20Source-open?style=plastic&logo=opensourceinitiative&logoColor=black&color=%233DA639)
 ![Static Badge](https://img.shields.io/badge/Open%20Hardware-open?style=plastic&logo=opensourcehardware&logoColor=black&color=%230099B0)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Mario-dango.Mario-dango)
 
 <!--> Editors IDE 
 ![Static Badge](https://img.shields.io/badge/Editor-VSCode-informational?style=plastic&logo=visualstudiocode&logoColor=blue&label=Editor&color=blue)
