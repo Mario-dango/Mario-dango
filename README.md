@@ -70,8 +70,8 @@
   
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">    
-  <a href="https://github.com/anuraghazra/github-readme-stats" align="center"><img alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api?username=Mario-dango&show_icons=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&text_color=6699ff&hide_border=false" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" aling="center"><img alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-dango&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&hide=Jupyter%20Notebook,Roff,Perl,M4,DIGITAL%20Command%20Language&hide_border=false" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api?username=Mario-dango&show_icons=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&text_color=6699ff&hide_border=false" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-dango&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&hide=Jupyter%20Notebook,Roff,Perl,M4,DIGITAL%20Command%20Language&hide_border=false" height="192px"/></a>
   </p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
