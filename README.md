@@ -70,8 +70,12 @@
   
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">    
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api?username=Mario-dango&show_icons=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&text_color=6699ff&hide_border=false" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-dango&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&hide=Jupyter%20Notebook,Roff,Perl,M4,DIGITAL%20Command%20Language&hide_border=false" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img title="Qué miras Owo?" alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api?username=Mario-dango&show_icons=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&text_color=6699ff&hide_border=false" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img title="UwU" alt="Mario-dango's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mario-dango&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&hide=Jupyter%20Notebook,Roff,Perl,M4,DIGITAL%20Command%20Language&hide_border=false" height="192px"/>
+  </a>
   </p>
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
@@ -80,7 +84,9 @@
   
   <b>Nota:</b> Los idiomas principales son solo una métrica de los idiomas que componen mi código público y no reflejan experiencia ni nivel de habilidad.
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" aling="center"><img alt="Mario-dango1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mario-dango&bg_color=1e013d&color=7b34c7&line=1d4380&point=6699ff&hide_border=false" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" aling="center">
+    <img title="Grafico cheto ewe" alt="Mario-dango1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Mario-dango&bg_color=1e013d&color=7b34c7&line=1d4380&point=6699ff&hide_border=false" />
+  </a>
 </details> 
 
 <!-- Link de referencia para readme.md  
