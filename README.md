@@ -59,7 +59,7 @@
   <p align="center">
       <a align="center" href="https://github.com/Mario-dango/github-readme-streak-stats" >
         <!-- <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mario-dango's streak" src="https://streak-stats.demolab.com/?user=Mario-dango&theme=react&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&hide_border=false"/> -->
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="Mario-dango's streak" src="https://streak-stats.demolab.com/?user=Mario-dango&theme=react&bg_color=1e013d&title_color=7b34c7&icon_color=7b34c7&hide_border=false](https://streak-stats.demolab.com?user=Mario-dango&locale=es&type=png&fire=6699FF&background=351657D2&border=7B34C7&stroke=6699FF&ring=1D4380&currStreakNum=7036AD&sideNums=7036AD&currStreakLabel=7036AD&sideLabels=6699FF&dates=000000&excludeDaysLabel=EB5454)"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" align="center" alt="Mario-dango's streak" src="https://streak-stats.demolab.com?user=Mario-dango&locale=es&fire=6699FF&background=351657D2&border=7B34C7&stroke=6699FF&ring=1D4380&currStreakNum=7036AD&sideNums=7036AD&currStreakLabel=7036AD&sideLabels=6699FF&dates=000000&excludeDaysLabel=EB5454"/>
     </a>
     <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
