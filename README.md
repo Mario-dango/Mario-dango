@@ -5,7 +5,7 @@
 <p>Soy un estudiante en ingeniería en mecatrónica, además de tener una trayectoria en diversos proyectos de programación. Actualmente enfocado en realizar pruebas automatizadas, adentrándome al mundo del testing cómo QA manual & automation.</p>
 
 <details open> 
-  <summary><h2>🛠️ Tools that I've been using 🧰</h2></summary>
+  <summary><h2>🛠️ Tools that I've been using 🧰</h2></summary> 
   
   <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) -->
   ![Static Badge](https://img.shields.io/badge/Open%20Source-open?style=plastic&logo=opensourceinitiative&logoColor=black&color=%233DA639)
